@@ -1,5 +1,6 @@
 # Simplenda
-Een niewe en verbeterde manier voor een agenda.
+Een nieuwe en verbeterde manier voor een agenda.
+
 
 
 
