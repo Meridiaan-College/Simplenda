@@ -6,8 +6,8 @@ ik ben max
 
 
 
-1 omdat
-2 je raar bent
+1. omdat
+2. je raar bent
 
 - want je weet wel
 
