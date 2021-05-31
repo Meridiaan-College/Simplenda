@@ -1,19 +1,7 @@
-## hallo
-ik ben max
-### je broer
-
-# is normaal
+# Simplenda
+Een niewe en verbeterde manier voor een agenda.
 
 
-
-1. omdat
-2. je raar bent
-
-- want je weet wel
-
-# HALLO
-# HALLO
-# HALLO
 
 
 
