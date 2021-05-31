@@ -1,3 +1,22 @@
+## hallo
+ik ben max
+### je broer
+
+# is normaal
+
+
+
+1 omdat
+2 je raar bent
+
+- want je weet wel
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/Meridiaan-College/Simplenda/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
