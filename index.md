@@ -1,7 +1,8 @@
 # Simplenda
 Een nieuwe en verbeterde manier voor een agenda.
 
-
+## Wat gaan we doen?
+Ehh ja wat moeten we nou eigenlijk allemaal hier doen
 
 
 
