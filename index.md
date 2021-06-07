@@ -1,7 +1,8 @@
 # Simplenda
 Een nieuwe en verbeterde manier voor een agenda.
 
-## 
+## het idee
+ons idee is om een beter agenda te maken. We hebben dit idee gekregen omdat wij de agenda die teams nu gebruikt niet handig vinden. Het idee is om alles in een te doen. Nu heb je namelijk alleen maar de vegaderingen in teams, en het lijkt ons beter om in die agenda ook je huiswerk of een bezoek aan de dokter. op deze manier staat alles overzichtelijk bijelkaar en mis je je afspraken minder snel.
 
 
 
