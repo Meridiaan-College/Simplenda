@@ -1,13 +1,11 @@
 # Simplenda
 Een nieuwe en verbeterde manier voor een agenda.
-
-## het idee
-ons idee is om een beter agenda te maken. We hebben dit idee gekregen omdat wij de agenda die teams nu gebruikt niet handig vinden. Het idee is om alles in een te doen. Nu heb je namelijk alleen maar de vegaderingen in teams, en het lijkt ons beter om in die agenda ook je huiswerk of een bezoek aan de dokter. op deze manier staat alles overzichtelijk bijelkaar en mis je je afspraken minder snel.
-
-
-
-
-
+## het probleem
+Ons probleem is dat de agenda die teams nu gebruikt niet handig. Dit vinden wij omdat je er alleen maar vegaderingen in kan zetten. Terwijl het handiger zou zijn als je er alles in kan zetten.
+### de oplossing
+Onze oplossing hiervoor ia de simplenda. Dit is een betere versie van de angenda die nu wordt gebruikt. In de simplenda kan je alles zetten en je vegaderigen staan er ook nog in. Wij werken met kleuren zou kan je alles een kleur geven en maakt dit het overzichtelijk. Ook komen er meerdere wergave, omdat iedereen een voorkeur heeft. 
+#### eerste schetsen
+Om bij een goede oplossing te krijgen moet je beginnen met schetsen. Dit hebben wij ook gedaan.
 
 ## Welcome to GitHub Pages
 
@@ -32,9 +30,7 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+**Bo_](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
