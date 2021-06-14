@@ -1,3 +1,4 @@
+
 # Simplenda
 De betere agenda voor teams!
 
@@ -7,3 +8,5 @@ Ons doel dit project is om een betere agenda voor teams te maken. Het idee is da
 3. Andere eigen plannen
 
 We hopen nog meer functies toe te kunnen voegen aan de Simplenda, maar dat zijn de drie hoofdfuncties.
+
+we wouden een nieuwe agenda maken omdat wij de huidige onhandig vinden. Nu kan je in teams namelijk alleen vegaderingen zetten, ons lijkt het handiger als je alles erin kan zetten. Om zou alles duidlijk bijelkaar te hebben en niks te missen.
