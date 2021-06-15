@@ -16,6 +16,7 @@ Met simplenda kan je alles bij een zetten je kan je huiswerk bij je vakken zette
 Ook zijn er talloze mogelijkheden om je agenda te personaliseren je kan namlijk zelf de kleuren, vormen en weergave bepalen.
 
 
-
+Op de manier waarop wij de agenda nu hebben gemaakt zou die voor de gebruiker bij teams in zitten.
+Natuurlijk zou het voor bedrijfen mogelijk zijn om de agenda te kopen, hiervoor hebben wij kunnen ze boden uit brengenn
 
 
