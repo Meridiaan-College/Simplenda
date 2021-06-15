@@ -13,10 +13,9 @@ we willen en nieuwe teams agenda maken omdat wij vinden dat de huidige teams age
 
 
 Met simplenda kan je alles bij een zetten je kan je huiswerk bij je vakken zetten en je heringeringen bij je afspraak. Zo kan je nooit iets vergeten.
-Ook zijn er talloze mogelijkheden om je agenda te personaliseren je kan namlijk zelf de kleuren, vormen en weergave bepalen.
+Ook zijn er talloze mogelijkheden om je agenda te personaliseren je kan namlijk zelf de kleuren, vormen en weergave bepalen. 
 
 
 Op de manier waarop wij de agenda nu hebben gemaakt zou die voor de gebruiker bij teams in zitten.
-Natuurlijk zou het voor bedrijfen mogelijk zijn om de agenda te kopen, hiervoor hebben wij kunnen ze boden uit brengenn
-
+Natuurlijk zou het voor bedrijfen mogelijk zijn om de agenda te kopen, hiervoor kunnen ze bieden.
 
