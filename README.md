@@ -1,6 +1,7 @@
 
 # Simplenda
-De betere agenda voor teams!
+De betere agenda voor teams! ![image](https://user-images.githubusercontent.com/84379251/122814743-e9106e80-d2d4-11eb-8d0e-5b031a5a13a9.png)
+
 
 Met simplenda kan je alles bij een zetten je kan je huiswerk bij je vakken zetten en je heringeringen bij je afspraak. Zo kan je nooit iets vergeten.
 Ook zijn er talloze mogelijkheden om je agenda te personaliseren je kan namlijk zelf de kleuren, vormen en weergave bepalen. 
@@ -9,7 +10,7 @@ Ook zijn er talloze mogelijkheden om je agenda te personaliseren je kan namlijk 
 2. Vergaderingen weergeven
 3. Andere eigen plannen
 
-het weergeven van huiswerk kan nu moeilijk in teams, omdat je niet vetschillende vakken ka zetten in een tijdstip. Onze oplossing hiervoor is meerdere gekleurde vakken op een tijd plaatsen. Zoals bijvoorbeeld je huiswerk zetten bij je les of vegadering. Of bij je afspraak zetten wat af zou moeten zijn.
+Het weergeven van huiswerk kan nu moeilijk in teams, omdat je niet vetschillende vakken ka zetten in een tijdstip. Onze oplossing hiervoor is meerdere gekleurde vakken op een tijd plaatsen. Zoals bijvoorbeeld je huiswerk zetten bij je les of vegadering. Of bij je afspraak zetten wat af zou moeten zijn.
 
 De vegaderingen blijven in ons ondwerp het zelfde orisatoren kunnen ze nogsteeds in de agenda van deelnemers plaatsen.
 
