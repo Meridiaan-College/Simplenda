@@ -25,3 +25,5 @@ Op de manier waarop wij de agenda nu hebben gemaakt zou die voor de gebruiker bi
 Natuurlijk zou het voor bedrijfen mogelijk zijn om de agenda te kopen, hiervoor hebben we nog geen echte prijs omdat we de agenda niet hebben uitgewerkt, de prijs zou dus ook pas echt kunnen kommen zodra we dit hebben uitgewerkt.
 
 ![Gif O O test 3](https://user-images.githubusercontent.com/84379251/122815118-56240400-d2d5-11eb-947a-0d7d4fe5dc01.gif)
+
+![eindontwerp O O](https://user-images.githubusercontent.com/51881087/122820712-347a4b00-d2dc-11eb-84df-85fc1904cc26.png)
