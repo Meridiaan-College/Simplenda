@@ -1,6 +1,6 @@
 
 # Simplenda
-De betere agenda voor teams! ![image](https://user-images.githubusercontent.com/84379251/122814743-e9106e80-d2d4-11eb-8d0e-5b031a5a13a9.png)
+De betere agenda voor teams!                                                                                                                             ![image](https://user-images.githubusercontent.com/84379251/122814849-06ddd380-d2d5-11eb-893c-133f037704b8.png)
 
 
 Met simplenda kan je alles bij een zetten je kan je huiswerk bij je vakken zetten en je heringeringen bij je afspraak. Zo kan je nooit iets vergeten.
