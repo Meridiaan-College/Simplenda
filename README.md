@@ -1,6 +1,9 @@
 
 # Simplenda
-De betere agenda voor teams!                                                                                                                             ![image](https://user-images.githubusercontent.com/84379251/122814849-06ddd380-d2d5-11eb-893c-133f037704b8.png)
+De betere agenda voor teams!
+
+
+![image](https://user-images.githubusercontent.com/84379251/122815081-4dcbc900-d2d5-11eb-807d-5a4b89c82018.png)
 
 
 Met simplenda kan je alles bij een zetten je kan je huiswerk bij je vakken zetten en je heringeringen bij je afspraak. Zo kan je nooit iets vergeten.
@@ -21,3 +24,4 @@ We hopen nog meer functies toe te kunnen voegen aan de Simplenda, maar dat zijn 
 Op de manier waarop wij de agenda nu hebben gemaakt zou die voor de gebruiker bij teams in zitten.
 Natuurlijk zou het voor bedrijfen mogelijk zijn om de agenda te kopen, hiervoor hebben we nog geen echte prijs omdat we de agenda niet hebben uitgewerkt, de prijs zou dus ook pas echt kunnen kommen zodra we dit hebben uitgewerkt.
 
+![Gif O O test 3](https://user-images.githubusercontent.com/84379251/122815118-56240400-d2d5-11eb-947a-0d7d4fe5dc01.gif)
