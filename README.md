@@ -25,7 +25,7 @@ Op de manier waarop wij de agenda nu hebben gemaakt zou die voor de gebruiker bi
 Natuurlijk zou het voor bedrijfen mogelijk zijn om de agenda te kopen, hiervoor hebben we nog geen echte prijs omdat we de agenda niet hebben uitgewerkt, de prijs zou dus ook pas echt kunnen kommen zodra we dit hebben uitgewerkt.
 
 ### De agenda
-Dit is hoe de agenda er uit komt te zien. De agenda is zo gemaakt dat als u op een van de ingeplande activiteiten drukt u dan een cirkeltje ziet verschijnen die uitgroeit tot een grotere cirkel met informatie over de activiteit.
+Dit is hoe de agenda er uit komt te zien. De agenda is zo gemaakt dat als u op een van de ingeplande activiteiten drukt u dan een cirkeltje ziet verschijnen die uitgroeit tot een grotere cirkel met informatie over de activiteit. U kunt ook makkelijk een nieuwe activiteit inplannen door op de knop rechtsboven te drukken.
 ![eindontwerp O O](https://user-images.githubusercontent.com/51881087/122820712-347a4b00-d2dc-11eb-84df-85fc1904cc26.png)
 
 Dt is hoe de cirkel eruit zou zien als u op geschiedenis zou drukken.
