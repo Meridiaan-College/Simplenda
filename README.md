@@ -24,6 +24,9 @@ We hopen nog meer functies toe te kunnen voegen aan de Simplenda, maar dat zijn 
 Op de manier waarop wij de agenda nu hebben gemaakt zou die voor de gebruiker bij teams in zitten.
 Natuurlijk zou het voor bedrijfen mogelijk zijn om de agenda te kopen, hiervoor hebben we nog geen echte prijs omdat we de agenda niet hebben uitgewerkt, de prijs zou dus ook pas echt kunnen kommen zodra we dit hebben uitgewerkt.
 
-![Gif O O test 3](https://user-images.githubusercontent.com/84379251/122815118-56240400-d2d5-11eb-947a-0d7d4fe5dc01.gif)
-
+### De agenda
+Dit is hoe de agenda er uit komt te zien. De agenda is zo gemaakt dat als u op een van de ingeplande activiteiten drukt u dan een cirkeltje ziet verschijnen die uitgroeit tot een grotere cirkel met informatie over de activiteit.
 ![eindontwerp O O](https://user-images.githubusercontent.com/51881087/122820712-347a4b00-d2dc-11eb-84df-85fc1904cc26.png)
+
+Dt is hoe de cirkel eruit zou zien als u op geschiedenis zou drukken.
+![Gif O O test 3](https://user-images.githubusercontent.com/84379251/122815118-56240400-d2d5-11eb-947a-0d7d4fe5dc01.gif)
